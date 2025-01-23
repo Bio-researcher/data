@@ -1,0 +1,18 @@
+Num,"First Category","Second Category",Pathway_ID,Match_status,"Pathway Description",通路描述,Impact_value,P_value,P_adjust
+12,Metabolism,"Lipid metabolism",map00564html,4|52,"Glycerophospholipid metabolism",甘油磷脂代谢,0.143323732568,1.93594019276E-5,0.000164554916385
+2,Metabolism,"Amino acid metabolism",map00380html,2|56,"Tryptophan metabolism",色氨酸代谢,0.104670265196,0.0136890949447,0.058178653515
+1,Metabolism,"Amino acid metabolism",map00400html,1|33,"Phenylalanine, tyrosine and tryptophan biosynthesis",苯丙氨酸、酪氨酸和色氨酸生物合成,0.0878661087866,0.0996637178169,0.147328974164
+1,Metabolism,"Amino acid metabolism",map00340html,1|33,"Histidine metabolism",组氨酸代谢,0.0592224231465,0.0996637178169,0.147328974164
+1,Metabolism,"Carbohydrate metabolism",map00020html,1|20,"Citrate cycle (TCA cycle)",柠檬酸盐循环（TCA循环）,0.0492191500256,0.0629180852592,0.164554992216
+1,Metabolism,"Amino acid metabolism",map00330html,1|72,"Arginine and proline metabolism",精氨酸和脯氨酸代谢,0.0431432973806,0.192254493532,0.181573688336
+2,Metabolism,"Carbohydrate metabolism",map00630html,2|54,"Glyoxylate and dicarboxylate metabolism",乙醛酸和二羧酸代谢,0.0350427350427,0.012795032899,0.0725051864277
+6,Metabolism,"Lipid metabolism",map00561html,1|32,"Glycerolipid metabolism",甘油脂代谢,0.0216478904352,0.0969478575664,0.164811357863
+1,Metabolism,"Amino acid metabolism",map00220html,1|23,"Arginine biosynthesis",精氨酸生物合成,0.0204678362573,0.0716783741074,0.152316544978
+1,Metabolism,"Lipid metabolism",map00120html,1|46,"Primary bile acid biosynthesis",初级胆汁酸生物合成,0.00819328830951,0.133354234128,0.151134798678
+1,Metabolism,"Amino acid metabolism",map00260html,1|47,"Glycine, serine and threonine metabolism",甘氨酸、丝氨酸和苏氨酸代谢,0.00532212885154,0.135824288161,0.144313306171
+1,Metabolism,"Carbohydrate metabolism",map00640html,1|44,"Propanoate metabolism",丙酸代谢,0.000758265089475,0.128362901627,0.15586923769
+2,Metabolism,"Lipid metabolism",map00591html,1|13,"Linoleic acid metabolism",亚油酸代谢,0,0.0418032751755,0.142131135597
+1,Metabolism,"Metabolism of other amino acids",map00430html,1|20,"Taurine and hypotaurine metabolism",牛磺酸和亚牛磺酸代谢,0,0.0629180852592,0.164554992216
+2,Metabolism,"Lipid metabolism",map00592html,1|29,"alpha-Linolenic acid metabolism",α-亚麻酸代谢,0,0.0886910260331,0.167527493618
+2,Metabolism,"Lipid metabolism",map00590html,1|37,"Arachidonic acid metabolism",花生四烯酸代谢,0,0.11034722752,0.144300220603
+1,Metabolism,"Carbohydrate metabolism",map00053html,1|50,"Ascorbate and aldarate metabolism",抗坏血酸和醛酸代谢,0,0.143132922249,0.143132922249

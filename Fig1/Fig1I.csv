@@ -1,0 +1,46 @@
+Num,"First Category","Second Category","Pathway Description",通路描述,Pathway_ID,Database,"Enrich Factor","DA Score",Ratio_in_study,Ratio_in_pop,P_value,P_adjust
+1,"Human Diseases","Immune disease",Asthma,气喘,map05310,"KEGG PATHWAY",0.2,0.5," 1/17"," 5/6215",0.01361,0.05566
+1,"Organismal Systems","Environmental adaptation","Circadian entrainment",昼夜节律夹带,map04713,"KEGG PATHWAY",0.11111111111111,0.1429," 1/17"," 9/6215",0.02437,0.07832
+1,"Cellular Processes","Cellular community - eukaryotes","Gap junction",间隙连接,map04540,"KEGG PATHWAY",0.090909090909091,0.1429," 1/17"," 11/6215",0.0297,0.07863
+1,"Organismal Systems","Immune system","Fc epsilon RI signaling pathway",Fc-ε-RI信号通路,map04664,"KEGG PATHWAY",0.090909090909091,0.1429," 1/17"," 11/6215",0.0297,0.07863
+1,"Organismal Systems","Digestive system","Gastric acid secretion",胃酸分泌,map04971,"KEGG PATHWAY",0.071428571428571,0.1667," 1/17"," 14/6215",0.03766,0.0807
+1,"Organismal Systems","Digestive system","Cholesterol metabolism",胆固醇代谢,map04979,"KEGG PATHWAY",0.1,0.5," 1/17"," 10/6215",0.02704,0.08111
+1,Metabolism,"Carbohydrate metabolism","Citrate cycle (TCA cycle)",柠檬酸盐循环（TCA循环）,map00020,"KEGG PATHWAY",0.05,-0.3333," 1/17"," 20/6215",0.05339,0.1092
+1,Metabolism,"Metabolism of other amino acids","Taurine and hypotaurine metabolism",牛磺酸和亚牛磺酸代谢,map00430,"KEGG PATHWAY",0.045454545454545,0.25," 1/17"," 22/6215",0.05858,0.1146
+1,Metabolism,"Amino acid metabolism","Arginine biosynthesis",精氨酸生物合成,map00220,"KEGG PATHWAY",0.043478260869565,-0.25," 1/17"," 23/6215",0.06116,0.1147
+1,"Organismal Systems","Environmental adaptation",Thermogenesis,产热,map04714,"KEGG PATHWAY",0.043478260869565,-0.1429," 1/17"," 23/6215",0.06116,0.1147
+1,"Organismal Systems","Endocrine system","Glucagon signaling pathway",胰高血糖素信号通路,map04922,"KEGG PATHWAY",0.038461538461538,-0.3333," 1/17"," 26/6215",0.06887,0.1192
+1,"Organismal Systems","Sensory system","Taste transduction",味觉转导,map04742,"KEGG PATHWAY",0.03125,0.25," 1/17"," 32/6215",0.08412,0.1221
+1,"Human Diseases","Cancer: overview","Chemical carcinogenesis - receptor activation",化学致癌作用-受体激活,map05207,"KEGG PATHWAY",0.03448275862069,0.5," 1/17"," 29/6215",0.07653,0.123
+1,Metabolism,"Amino acid metabolism","Phenylalanine, tyrosine and tryptophan biosynthesis",苯丙氨酸、酪氨酸和色氨酸生物合成,map00400,"KEGG PATHWAY",0.029411764705882,-0.2," 1/17"," 34/6215",0.08915,0.1254
+1,"Human Diseases","Cancer: overview","Central carbon metabolism in cancer",癌症的中心碳代谢,map05230,"KEGG PATHWAY",0.027027027027027,-0.1," 1/17"," 37/6215",0.09665,0.1318
+1,Metabolism,"Carbohydrate metabolism","Propanoate metabolism",丙酸代谢,map00640,"KEGG PATHWAY",0.020833333333333,-0.3333," 1/17"," 48/6215",0.1236,0.1391
+1,"Organismal Systems","Nervous system","Serotonergic synapse",5-羟色胺能突触,map04726,"KEGG PATHWAY",0.023809523809524,0.09091," 1/17"," 42/6215",0.109,0.1402
+1,Metabolism,"Amino acid metabolism","Glycine, serine and threonine metabolism",甘氨酸、丝氨酸和苏氨酸代谢,map00260,"KEGG PATHWAY",0.02,-0.06667," 1/17"," 50/6215",0.1285,0.141
+1,Metabolism,"Amino acid metabolism","Histidine metabolism",组氨酸代谢,map00340,"KEGG PATHWAY",0.021276595744681,0.1429," 1/17"," 47/6215",0.1212,0.1474
+1,Metabolism,"Lipid metabolism","Primary bile acid biosynthesis",初级胆汁酸生物合成,map00120,"KEGG PATHWAY",0.021276595744681,0.2," 1/17"," 47/6215",0.1212,0.1474
+1,"Organismal Systems","Digestive system","Protein digestion and absorption",蛋白质的消化和吸收,map04974,"KEGG PATHWAY",0.021276595744681,0.09091," 1/17"," 47/6215",0.1212,0.1474
+1,Metabolism,"Carbohydrate metabolism","Ascorbate and aldarate metabolism",抗坏血酸和醛酸代谢,map00053,"KEGG PATHWAY",0.017543859649123,-0.2," 1/17"," 57/6215",0.1452,0.1555
+1,Metabolism,"Amino acid metabolism","Arginine and proline metabolism",精氨酸和脯氨酸代谢,map00330,"KEGG PATHWAY",0.012820512820513,-0.1667," 1/17"," 78/6215",0.1934,0.1978
+2,"Organismal Systems","Nervous system","Synaptic vesicle cycle",突触小泡循环,map04721,"KEGG PATHWAY",0.16666666666667,0.6667," 2/17"," 12/6215",0.0004574,0.004117
+2,Metabolism,"Carbohydrate metabolism","Glyoxylate and dicarboxylate metabolism",乙醛酸和二羧酸代谢,map00630,"KEGG PATHWAY",0.032258064516129,-0.3333," 2/17"," 62/6215",0.01209,0.05442
+2,"Organismal Systems","Digestive system","Bile secretion",胆汁分泌,map04976,"KEGG PATHWAY",0.020618556701031,0.1818," 2/17"," 97/6215",0.02816,0.07919
+2,Metabolism,"Lipid metabolism","Linoleic acid metabolism",亚油酸代谢,map00591,"KEGG PATHWAY",0.035714285714286,-0.04167," 1/17"," 28/6215",0.07398,0.1233
+2,Metabolism,"Lipid metabolism","alpha-Linolenic acid metabolism",α-亚麻酸代谢,map00592,"KEGG PATHWAY",0.022727272727273,-0.04651," 1/17"," 44/6215",0.1139,0.1424
+2,Metabolism,"Lipid metabolism","Arachidonic acid metabolism",花生四烯酸代谢,map00590,"KEGG PATHWAY",0.013333333333333,-0.04082," 1/17"," 75/6215",0.1867,0.1954
+2,Metabolism,"Global and overview maps","Biosynthesis of cofactors",辅助因子的生物合成,map01240,"KEGG PATHWAY",0.0061162079510703,-0.1111," 2/17"," 327/6215",0.2242,0.2242
+3,"Organismal Systems","Sensory system","Inflammatory mediator regulation of TRP channels",TRP通道的炎症介质调节,map04750,"KEGG PATHWAY",0.085714285714286,0.1," 3/17"," 35/6215",0.0001054,0.001186
+3,Metabolism,"Amino acid metabolism","Tryptophan metabolism",色氨酸代谢,map00380,"KEGG PATHWAY",0.036144578313253,0.09091," 3/17"," 83/6215",0.001364,0.008772
+3,"Organismal Systems","Nervous system","Retrograde endocannabinoid signaling",逆行内源性大麻素信号传导,map04723,"KEGG PATHWAY",0.10526315789474,-0.04545," 2/17"," 19/6215",0.001172,0.008789
+4,"Environmental Information Processing","Signaling molecules and interaction","Neuroactive ligand-receptor interaction",神经活性配体-受体相互作用,map04080,"KEGG PATHWAY",0.076923076923077,0.1818," 4/17"," 52/6215",9.572E-6,0.0002154
+6,"Human Diseases","Cancer: specific types","Pancreatic cancer",胰腺癌,map05212,"KEGG PATHWAY",0.5,-0.5455," 1/17"," 2/6215",0.005464,0.02732
+6,"Organismal Systems","Endocrine system","GnRH signaling pathway",GnRH信号通路,map04912,"KEGG PATHWAY",0.16666666666667,-0.3529," 1/17"," 6/6215",0.01631,0.06115
+6,"Organismal Systems","Immune system","Fc gamma R-mediated phagocytosis",Fc-γR-介导的吞噬作用,map04666,"KEGG PATHWAY",0.125,-0.3529," 1/17"," 8/6215",0.02169,0.07507
+6,"Environmental Information Processing","Signal transduction","Phospholipase D signaling pathway",磷脂酶D信号通路,map04072,"KEGG PATHWAY",0.090909090909091,-0.3529," 1/17"," 11/6215",0.0297,0.07863
+6,"Organismal Systems","Digestive system","Fat digestion and absorption",脂肪的消化和吸收,map04975,"KEGG PATHWAY",0.076923076923077,-0.375," 1/17"," 13/6215",0.03501,0.07878
+6,"Human Diseases","Cancer: overview","Pathways in cancer",癌症的发病通路,map05200,"KEGG PATHWAY",0.032258064516129,-0.3333," 1/17"," 31/6215",0.0816,0.1224
+6,"Environmental Information Processing","Signal transduction","Phosphatidylinositol signaling system",磷脂酰肌醇信号系统,map04070,"KEGG PATHWAY",0.03448275862069,-0.5," 1/17"," 29/6215",0.07653,0.123
+6,Metabolism,"Lipid metabolism","Glycerolipid metabolism",甘油脂代谢,map00561,"KEGG PATHWAY",0.026315789473684,-0.4615," 1/17"," 38/6215",0.09913,0.1312
+7,"Environmental Information Processing","Signal transduction","cAMP signaling pathway",cAMP信号通路,map04024,"KEGG PATHWAY",0.08,-0.25," 2/17"," 25/6215",0.002036,0.01145
+9,"Human Diseases","Cancer: overview","Choline metabolism in cancer",癌症的胆碱代谢,map05231,"KEGG PATHWAY",0.27272727272727,-0.1154," 3/17"," 11/6215",2.768E-6,0.0001246
+12,Metabolism,"Lipid metabolism","Glycerophospholipid metabolism",甘油磷脂代谢,map00564,"KEGG PATHWAY",0.071428571428571,-0.1," 4/17"," 56/6215",1.29E-5,0.0001935
